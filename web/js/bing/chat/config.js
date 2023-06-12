@@ -330,7 +330,9 @@ _w['_sydConvTranslation'] = {
   welcomeMessageItemContent1: '我可以为我挑剔的只吃橙色食物的孩子做什么饭?',
   welcomeMessageItemContent2: '销量最高的 3 种宠物吸尘器有哪些优点和缺点?',
   welcomeMessageItemContent3: '以海盗的口吻写一首关于外太空鳄鱼的俳句',
-  
+  welcomeMessageItemTitle1: '',
+  welcomeMessageItemTitle2: '',
+  welcomeMessageItemTitle3: '',
   welcomeMessageItemLabel4: '更多创意中的新增功能：',
   warmWelcomeTitle: 'Sanofi AI对练',
   welcomeSubtitleText: '',
