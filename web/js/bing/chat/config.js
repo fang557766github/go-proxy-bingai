@@ -334,7 +334,7 @@ _w['_sydConvTranslation'] = {
   welcomeMessageItemTitle2: '',
   welcomeMessageItemTitle3: '',
   welcomeMessageItemLabel4: '更多创意中的新增功能：',
-  warmWelcomeTitle: 'Sanofi AI对练',
+  warmWelcomeTitle: 'HCP-GPT by Commercial Capability',
   welcomeSubtitleText: '',
   workToggleDescription: '以及你的结果包括哪些内容',
   feedbackFirstMessage: '非常抱歉没有帮助到你。是否可以详细说明你不喜欢的方面?',
