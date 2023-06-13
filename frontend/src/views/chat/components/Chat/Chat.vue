@@ -124,6 +124,7 @@ const hackStyle = () => {
   const welcomeEle = conversationEle?.shadowRoot?.querySelector('cib-welcome-container');
   welcomeEle?.shadowRoot?.querySelector('.learn-tog-item')?.remove();
   serpEle?.shadowRoot?.querySelector('cib-serp-feedback')?.remove();
+  welcomeEle?.shadowRoot?.querySelector('.container-item')?.remove();
   if (isMobile()) {
     welcomeEle?.shadowRoot?.querySelector('.container-item')?.remove();
     CIB.vm.actionBar.input.placeholder = '有问题尽管问我...（"/" 触发提示词）';
